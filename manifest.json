@@ -1,0 +1,35 @@
+{
+    "name": "khalid_awad_al_johi_medical_llc",
+    "short_name": "khalid_awad_al_johi_medical_llc",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Khalid Awad Al Johi Medical LLC is a leading supplier of medical and laboratory supplies, specializing in providing top-quality products to healthcare facilities, clinics, hospitals, and laboratories. Our extensive range of medical equipment, diagnostic tools, and laboratory consumables ensures that healthcare professionals have access to reliable and innovative solutions for patient care, diagnostics, and research. As a trusted name in the medical supply industry, we prioritize quality, affordability, and exceptional customer service. Khalid Awad Al Johi Medical LLC is your go-to source for medical and lab supplies, helping to elevate healthcare standards and meet the growing demands of the medical sector.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
